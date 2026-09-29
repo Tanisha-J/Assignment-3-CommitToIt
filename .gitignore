@@ -1,0 +1,15 @@
+# Compiled Java bytecode
+*.class
+
+# Packaged builds
+*.jar
+*.war
+
+# Common build output directories
+bin/
+build/
+out/
+target/
+
+# macOS
+.DS_Store
